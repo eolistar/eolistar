@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋 
 
 - 🔭 Atualmente trabalho na área de suporte
 - 🌱 Estou aprendendo Python e Data Science
