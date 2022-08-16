@@ -1,6 +1,7 @@
 ### Olá 👋 
 ## Me chamo Eduardo
 - 🔭 Atualmente trabalho na área de suporte
+- 🌱 Estou aprendendo Ciência de Dados
 - 🌱 Estou aprendendo Javascript
 
 <div align="center">
